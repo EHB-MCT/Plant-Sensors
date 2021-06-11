@@ -5,6 +5,8 @@
 ### Sources
 * [WebSocketsClient](https://github.com/zaphoyd/websocketpp)
 * [SocketIoClient](https://github.com/timum-viw/socket.io-client)
+* [arduinojson](https://arduinojson.org/)
+
 *Note: SocketIoClient is only compatible with Socket.io v2.x.x. Newer versions will not work*
 
 ### Flashing to ESP
